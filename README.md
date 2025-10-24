@@ -1,4 +1,1 @@
-## Hi!
-
-- 🔭 I’m currently working on Cognitive Science
-- 🌱 I’m currently learning Data Science
+Lost in networks, exploring how cognition emerges in biological and artificial systems
